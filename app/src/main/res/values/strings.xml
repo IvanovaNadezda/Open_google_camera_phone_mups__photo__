@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open_google_com">open google.com</string>
+    <string name="open_camera">open camera</string>
+    <string name="open_phone">open phone</string>
+    <string name="open_google_mups">open google mups</string>
+    <string name="make_photo">make photo</string>
+    <string name="todo">TODO</string>
+</resources>
